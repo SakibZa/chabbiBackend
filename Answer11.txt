@@ -1,0 +1,5 @@
+The output for f2 [0, 1]
+The output for f2 [3, 2, 1, 0, 1, 4]
+The output for f3 [0, 1, 4, 0, 1, 4]
+
+
